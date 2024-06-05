@@ -1,0 +1,84 @@
+{
+    "enfermedades": [
+    {
+    "id": 1,
+    "nombre": "Enfermedad cardíaca",
+    "causas": "Factores de riesgo como la hipertensión arterial, el colesterol alto, la obesidad, el tabaquismo y la falta de actividad física.",
+    "consecuencias": "Infarto de miocardio, insuficiencia cardíaca, accidente cerebrovascular, entre otras.",
+    "tratamiento": "Cambios en el estilo de vida (dieta saludable, ejercicio regular), medicamentos para controlar la presión arterial y el colesterol, procedimientos médicos y cirugía en casos graves.",
+    "tasa_mortalidad": "Alrededor del 17.9% a nivel mundial."
+    },
+    {
+    "id": 2,
+    "nombre": "Cáncer",
+    "causas": "Factores genéticos, ambientales, estilo de vida (como el tabaquismo, la dieta poco saludable, la falta de actividad física) y exposición a sustancias carcinógenas.",
+    "consecuencias": "Depende del tipo y la etapa del cáncer, pero puede incluir metástasis, dolor crónico, deterioro de la función orgánica y aumento del riesgo de muerte.",
+    "tratamiento": "Depende del tipo de cáncer, pero puede incluir cirugía, quimioterapia, radioterapia, terapias dirigidas, inmunoterapia y terapia hormonal.",
+    "tasa_mortalidad": "Varía según el tipo de cáncer, pero a nivel mundial es una de las principales causas de muerte."
+    },
+    {
+    "id": 3,
+    "nombre": "Enfermedad pulmonar obstructiva crónica (EPOC)",
+    "causas": "Tabaquismo, exposición prolongada a humo de segunda mano, contaminación del aire interior y exterior, y exposición a sustancias químicas en el lugar de trabajo.",
+    "consecuencias": "Dificultad para respirar, tos crónica, producción de esputo, infecciones respiratorias recurrentes, fatiga, pérdida de peso y riesgo de complicaciones graves como insuficiencia cardíaca y pulmonar.",
+    "tratamiento": "Dejar de fumar, medicamentos para aliviar los síntomas y mejorar la función pulmonar, oxigenoterapia y rehabilitación pulmonar.",
+    "tasa_mortalidad": "Alrededor del 3.2% a nivel mundial."
+    },
+    {
+    "id": 4,
+    "nombre": "Accidente cerebrovascular (ACV)",
+    "causas": "Obstrucción de un vaso sanguíneo en el cerebro (accidente cerebrovascular isquémico) o la ruptura de un vaso sanguíneo (accidente cerebrovascular hemorrágico).",
+    "consecuencias": "Pérdida de la función cerebral, parálisis, dificultades para hablar y entender, pérdida de memoria, cambios de personalidad y riesgo de discapacidad permanente o muerte.",
+    "tratamiento": "Tratamiento de emergencia para restaurar el flujo sanguíneo al cerebro, medicamentos para prevenir coágulos sanguíneos y rehabilitación para recuperar habilidades perdidas.",
+    "tasa_mortalidad": "Alrededor del 11.8% a nivel mundial."
+    },
+    {
+    "id": 5,
+    "nombre": "Diabetes",
+    "causas": "Resistencia a la insulina o deficiencia de insulina, factores genéticos, obesidad, dieta poco saludable y falta de actividad física.",
+    "consecuencias": "Complicaciones a largo plazo como enfermedades cardíacas, daño renal, neuropatía, problemas oculares, amputaciones y mayor riesgo de muerte.",
+    "tratamiento": "Control de azúcar en la sangre con dieta, ejercicio y medicamentos (incluida la insulina en casos graves), control de factores de riesgo y manejo de complicaciones.",
+    "tasa_mortalidad": "Alrededor del 2.2% a nivel mundial."
+    },
+    {
+    "id": 6,
+    "nombre": "Enfermedades infecciosas",
+    "causas": "Infecciones bacterianas, virales, fúngicas o parasitarias, propagadas a través del contacto directo, gotitas respiratorias, alimentos o agua contaminados, o vectores como mosquitos.",
+    "consecuencias": "Varían según el tipo de enfermedad, pero pueden incluir fiebre, malestar general, dolor, síntomas específicos del sistema afectado, complicaciones graves e incluso muerte.",
+    "tratamiento": "Depende del agente infeccioso, pero puede incluir medicamentos antimicrobianos, vacunas, medidas de apoyo y prevención de la propagación.",
+    "tasa_mortalidad": "Varía según la enfermedad y el acceso al tratamiento."
+    },
+    {
+    "id": 7,
+    "nombre": "Enfermedades cardiovasculares",
+    "causas": "Factores de riesgo como la hipertensión arterial, el colesterol alto, la obesidad, el tabaquismo, la falta de actividad física y la mala alimentación.",
+    "consecuencias": "Infarto de miocardio, accidente cerebrovascular, enfermedad arterial periférica, enfermedad cardíaca reumática, entre otras.",
+    "tratamiento": "Cambios en el estilo de vida, medicamentos para controlar los factores de riesgo, procedimientos médicos y cirugía en casos graves.",
+    "tasa_mortalidad": "Alrededor del 31% a nivel mundial."
+    },
+    {
+    "id": 8,
+    "nombre": "Enfermedades respiratorias",
+    "causas": "Infecciones respiratorias virales como la gripe y el COVID-19, enfermedades crónicas como el asma y la EPOC, exposición al humo del tabaco y la contaminación del aire.",
+    "consecuencias": "Dificultad para respirar, tos, producción de esputo, fatiga, infecciones respiratorias recurrentes y riesgo de complicaciones graves como insuficiencia respiratoria.",
+    "tratamiento": "Depende del tipo y la gravedad de la enfermedad, pero puede incluir medicamentos para aliviar los síntomas, oxígeno suplementario, ventilación mecánica y cuidados de apoyo.",
+    "tasa_mortalidad": "Varía según la enfermedad y la situación de salud pública."
+    },
+    {
+    "id": 9,
+    "nombre": "Enfermedades del sistema digestivo",
+    "causas": "Infecciones bacterianas o virales, enfermedades crónicas como la enfermedad inflamatoria intestinal y la enfermedad del hígado graso no alcohólico, factores genéticos y hábitos alimenticios poco saludables.",
+    "consecuencias": "Dolor abdominal, cambios en los hábitos intestinales, pérdida de peso, malabsorción de nutrientes, inflamación, daño en órganos y riesgo de cáncer.",
+    "tratamiento": "Dieta adecuada, medicamentos para controlar los síntomas, procedimientos endoscópicos, cirugía y trasplante de órganos en casos graves.",
+    "tasa_mortalidad": "Varía según la enfermedad y la disponibilidad de tratamiento."
+    },
+    {
+    "id": 10,
+    "nombre": "Enfermedades neurológicas",
+    "causas": "Lesiones traumáticas en el cerebro o la médula espinal, trastornos neurodegenerativos como el Alzheimer y el Parkinson, infecciones virales como la encefalitis, y trastornos genéticos.",
+    "consecuencias": "Dolor, discapacidad, deterioro cognitivo, cambios en la función motora, convulsiones, trastornos del habla y pérdida de la función neurológica.",
+    "tratamiento": "Depende del tipo y la gravedad de la enfermedad, pero puede incluir medicamentos para controlar los síntomas, terapia física, ocupacional o del habla, y cirugía en casos graves.",
+    "tasa_mortalidad": "Varía según la enfermedad y el acceso al tratamiento."
+    }
+    ]
+    }
